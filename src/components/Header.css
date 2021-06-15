@@ -1,0 +1,20 @@
+.header-container {
+  text-align: left;
+  margin: 2rem;
+  font-size: 25px;
+}
+
+.form-title {
+  text-transform: uppercase;
+}
+
+.username {
+  border: none;
+  max-width: 50%;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+p {
+  display: inline-block;
+}
