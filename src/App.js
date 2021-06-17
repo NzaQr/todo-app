@@ -1,12 +1,16 @@
 import "./App.css";
 import Header from "./components/Header";
-import Week from "./components/Week";
+import Sketch from "./components/Sketch";
+import Todolist from "./components/Todolist";
+import Note from "./components/Note";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Week />
+      <Todolist />
+      <Note />
+      <Sketch />
     </div>
   );
 }
